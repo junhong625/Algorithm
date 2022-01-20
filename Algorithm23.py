@@ -1,3 +1,5 @@
+#두 과잉수의 합으로 나타낼 수 없는 모든 양의 정수의 합은?
+
 def divisors(num):
     sum = 0
     for j in range(1, num):
